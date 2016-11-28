@@ -18,7 +18,7 @@ sudo apt-get install -y libapache2-mod-php7.0 php7.0-common php7.0-gd php7.0-mys
 
 ### Setup mysql
 You should create database named iwish or you liked.
-but in /src/wp-config.php, we use 
+but in /src/wp-config.php, we use iwish as default database
 
 ### Config nginx (Replace the root with your own project file path)
 ```
