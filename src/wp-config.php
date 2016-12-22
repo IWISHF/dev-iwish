@@ -20,16 +20,16 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
-define('DB_NAME', 'iwish');
+define('DB_NAME', 'bdm251568552_db');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'root');
+define('DB_USER', 'bdm251568552');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', '123456');
+define('DB_PASSWORD', '7563836ab');
 
 /** MySQL主机 */
-define('DB_HOST', '127.0.0.1');
+define('DB_HOST', 'bdm251568552.my3w.com');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');
